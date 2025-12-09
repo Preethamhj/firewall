@@ -1,0 +1,3 @@
+module.exports = {
+    SECRET_KEY: "MY_SUPER_SECRET_KEY_123"
+};
