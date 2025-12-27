@@ -7,5 +7,7 @@ module.exports = {
 
     requiredHeaders: ["content-type"],
 
+    message:["hi"],
+    
     backendURL: "http://localhost:5000"  // backend server
 };
